@@ -2,6 +2,7 @@ import Tooltip from "./ui/tooltip";
 import Dropdown from "./ui/dropdown";
 import Tabs from "./ui/tabs";
 
+
 //create a tooltip
   const tooltip = new Tooltip(document.querySelector(".tooltip"));
   tooltip.init();
